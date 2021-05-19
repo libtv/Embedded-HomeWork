@@ -15,8 +15,8 @@
 <p>미세먼지와 강수 등 여러가지 변수를 차단하는 시스템을 만들어보았다.</p>
 
 <h1>결과</h1>
-<img src="./img/1.PNG" width="300" height="501">
-<img src="./img/2.PNG" width="300" height="501"/>
-<img src="./img/3.PNG" width="300" height="501"/>
-<img src="./img/4.PNG" width="300" height="501"/>
-<img src="./img/5.PNG" width="300" height="501"/>
+<img src="./img/1.PNG" >
+<img src="./img/2.PNG" />
+<img src="./img/3.PNG" />
+<img src="./img/4.PNG" />
+<img src="./img/5.PNG" />
